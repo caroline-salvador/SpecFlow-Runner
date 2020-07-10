@@ -1,0 +1,822 @@
+﻿2020-07-10T08:04:47.9189153-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-07-10T08:04:47.9190918-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.17 in Framework netcore31 in x64 mode execution started
+2020-07-10T08:04:47.9191079-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-07-10T08:04:47.9209615-03:00;VSTestExecutionThread;Info;Current UserName: 'caroline.salvador', MachineName: 'DESKTOP-L7HRECQ'
+2020-07-10T08:04:47.9425588-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll
+2020-07-10T08:04:47.9427482-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\caroline.salvador\source\repos\TestProject\TestResults" (default)
+2020-07-10T08:04:47.9428053-03:00;VSTestExecutionThread;Info;Profile: 
+2020-07-10T08:04:47.9741350-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\caroline.salvador\source\repos\TestProject\TestResults\Unnamed project__2020-07-10T080447.log
+2020-07-10T08:04:47.9782128-03:00;Thread#12;Info;Checking activation
+2020-07-10T08:04:48.0482061-03:00;Thread#12;Info;Activated.
+2020-07-10T08:04:48.0484451-03:00;Thread#12;Info;Activation check completed
+2020-07-10T08:04:48.0485158-03:00;Thread#12;Info;Starting test run
+2020-07-10T08:04:48.1138072-03:00;Thread#12;Info;Discovering target: Default
+2020-07-10T08:04:48.1139634-03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll
+2020-07-10T08:04:48.1831006-03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll
+2020-07-10T08:04:48.1846581-03:00:Test Suite Dump
+2020-07-10T08:04:48.1859270-03:00:#0: Unnamed project/ - 
+2020-07-10T08:04:48.1859399-03:00:#1: Default - 
+2020-07-10T08:04:48.1859415-03:00:#2: TestProject - 
+2020-07-10T08:04:48.1859438-03:00:#3: Depósito de Cheques - 
+2020-07-10T08:04:48.1859456-03:00:#11: Deverá ser possível realizar o estorno de maneira digital nos Canais. - 
+2020-07-10T08:04:48.1859474-03:00:#21: Validate Page Layout - 
+2020-07-10T08:04:48.1859485-03:00:#24: Validate Title and Symbol - 
+2020-07-10T08:04:48.1859501-03:00:#32: Validate Title Wikipedia - 
+2020-07-10T08:04:48.1870528-03:00:#4: 1 - Habilitar a cooperativa para o serviço de Depósito de Cheques - TestAssembly:TestProject/Feature:Dep%c3%b3sito+de+Cheques/Scenario:1+-+Habilitar+a+cooperativa+para+o+servi%c3%a7o+de+Dep%c3%b3sito+de+Cheques
+2020-07-10T08:04:48.1870853-03:00:#5: 2 - Adesão Manual do serviço - TestAssembly:TestProject/Feature:Dep%c3%b3sito+de+Cheques/Scenario:2+-+Ades%c3%a3o+Manual+do+servi%c3%a7o
+2020-07-10T08:04:48.1870992-03:00:#6: 3 - Adesão Automática do serviço - TestAssembly:TestProject/Feature:Dep%c3%b3sito+de+Cheques/Scenario:3+-+Ades%c3%a3o+Autom%c3%a1tica+do+servi%c3%a7o
+2020-07-10T08:04:48.1871060-03:00:#7: 4 - Função Desabilitada - TestAssembly:TestProject/Feature:Dep%c3%b3sito+de+Cheques/Scenario:4+-+Fun%c3%a7%c3%a3o+Desabilitada
+2020-07-10T08:04:48.1871107-03:00:#8: 5 - Depositar o cheque - TestAssembly:TestProject/Feature:Dep%c3%b3sito+de+Cheques/Scenario:5+-+Depositar+o+cheque
+2020-07-10T08:04:48.1871298-03:00:#9: 6 - Cheque recusado - TestAssembly:TestProject/Feature:Dep%c3%b3sito+de+Cheques/Scenario:6+-+Cheque+recusado
+2020-07-10T08:04:48.1871368-03:00:#10: 7 - Cheque aprovado - TestAssembly:TestProject/Feature:Dep%c3%b3sito+de+Cheques/Scenario:7+-+Cheque+aprovado
+2020-07-10T08:04:48.1871471-03:00:#12: 1 - Mostrar o comportamento para pagamento de FGTS que poderá ser estornado. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:1+-+Mostrar+o+comportamento+para+pagamento+de+FGTS+que+poder%c3%a1+ser+estornado.
+2020-07-10T08:04:48.1871970-03:00:#13: 2 - Mostrar o comportamento para pagamento de CELESC que poderá ser estornado. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:2+-+Mostrar+o+comportamento+para+pagamento+de+CELESC+que+poder%c3%a1+ser+estornado.
+2020-07-10T08:04:48.1872094-03:00:#14: 3 - Mostrar o comportamento para pagamento de DAE que poderá ser estornado. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:3+-+Mostrar+o+comportamento+para+pagamento+de+DAE+que+poder%c3%a1+ser+estornado.
+2020-07-10T08:04:48.1872217-03:00:#15: 4 - Mostrar o comportamento para pagamento de TÍTULOS AILOS que poderá ser estornado. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:4+-+Mostrar+o+comportamento+para+pagamento+de+T%c3%8dTULOS+AILOS+que+poder%c3%a1+ser+estornado.
+2020-07-10T08:04:48.1872779-03:00:#16: 5 - Mostrar o comportamento para pagamento de DAS que não será possível realizar o estorno. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:5+-+Mostrar+o+comportamento+para+pagamento+de+DAS+que+n%c3%a3o+ser%c3%a1+poss%c3%advel+realizar+o+estorno.
+2020-07-10T08:04:48.1872957-03:00:#17: 6 - Mostrar o comportamento para pagamento de DARF 64/153/385 que não será possível realizar o estorno. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:6+-+Mostrar+o+comportamento+para+pagamento+de+DARF+64%2f153%2f385+que+n%c3%a3o+ser%c3%a1+poss%c3%advel+realizar+o+estorno.
+2020-07-10T08:04:48.1873067-03:00:#18: 7 - Mostrar o comportamento para pagamento de DARE que não será possível realizar o estorno. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:7+-+Mostrar+o+comportamento+para+pagamento+de+DARE+que+n%c3%a3o+ser%c3%a1+poss%c3%advel+realizar+o+estorno.
+2020-07-10T08:04:48.1873271-03:00:#19: 8 - Mostrar o comportamento para pagamento de GNRE que não será possível realizar o estorno. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:8+-+Mostrar+o+comportamento+para+pagamento+de+GNRE+que+n%c3%a3o+ser%c3%a1+poss%c3%advel+realizar+o+estorno.
+2020-07-10T08:04:48.1873371-03:00:#20: 9 - Mostrar o comportamento para pagamento de GPS que não será possível realizar o estorno. - TestAssembly:TestProject/Feature:Dever%c3%a1+ser+poss%c3%advel+realizar+o+estorno+de+maneira+digital+nos+Canais./Scenario:9+-+Mostrar+o+comportamento+para+pagamento+de+GPS+que+n%c3%a3o+ser%c3%a1+poss%c3%advel+realizar+o+estorno.
+2020-07-10T08:04:48.1873481-03:00:#22: Validate image size - TestAssembly:TestProject/Feature:Validate+Page+Layout/Scenario:Validate+image+size
+2020-07-10T08:04:48.1873528-03:00:#23: Validate field name - TestAssembly:TestProject/Feature:Validate+Page+Layout/Scenario:Validate+field+name
+2020-07-10T08:04:48.1873662-03:00:#25: Validate Title GitHub - TestAssembly:TestProject/Feature:Validate+Title+and+Symbol/Scenario:Validate+Title+GitHub
+2020-07-10T08:04:48.1873708-03:00:#26: Validate Title Google - TestAssembly:TestProject/Feature:Validate+Title+and+Symbol/Scenario:Validate+Title+Google
+2020-07-10T08:04:48.1873930-03:00:#27: Validate Title Microsoft - TestAssembly:TestProject/Feature:Validate+Title+and+Symbol/Scenario:Validate+Title+Microsoft
+2020-07-10T08:04:48.1874142-03:00:#28: Validate Google's Stock Symbol - TestAssembly:TestProject/Feature:Validate+Title+and+Symbol/Scenario:Validate+Google%27s+Stock+Symbol
+2020-07-10T08:04:48.1874194-03:00:#29: Validate Microsoft's  Stock Symbol - TestAssembly:TestProject/Feature:Validate+Title+and+Symbol/Scenario:Validate+Microsoft%27s++Stock+Symbol
+2020-07-10T08:04:48.1874420-03:00:#30: Validate Apple's  Stock Symbol - TestAssembly:TestProject/Feature:Validate+Title+and+Symbol/Scenario:Validate+Apple%27s++Stock+Symbol
+2020-07-10T08:04:48.1874652-03:00:#31: Validate Stock Symbol - TestAssembly:TestProject/Feature:Validate+Title+and+Symbol/Scenario:Validate+Stock+Symbol
+2020-07-10T08:04:48.1874697-03:00:#33: Validate Google's Title - TestAssembly:TestProject/Feature:Validate+Title+Wikipedia/Scenario:Validate+Google%27s+Title
+2020-07-10T08:04:48.1874931-03:00:#34: Validate Microsoft's Title - TestAssembly:TestProject/Feature:Validate+Title+Wikipedia/Scenario:Validate+Microsoft%27s+Title
+2020-07-10T08:04:48.1875001-03:00:#35: Validate Apple's Title - TestAssembly:TestProject/Feature:Validate+Title+Wikipedia/Scenario:Validate+Apple%27s+Title
+2020-07-10T08:04:48.1876134-03:00:End: Test Suite Dump
+2020-07-10T08:04:48.2028389-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:48.2043627-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-07-10T08:04:48.2044252-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-07-10T08:04:48.2071413-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:48.2071554-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:48.2071569-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:48.2071595-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-07-10T08:04:48.2078064-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-07-10T08:04:48.2092420-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:48.2112473-03:00:Thread #0: creating new test thread executor for TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-07-10T08:04:48.2137135-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-07-10T08:04:48.2138844-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-07-10T08:04:48.2331734-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-07-10T08:04:48.2348215-03:00:starting Out Of Process Executor
+2020-07-10T08:04:48.2643025-03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:04:48.2665055-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-07-10T08:04:48.2665253-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-07-10T08:04:48.2678170-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:04:48.2680992-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-07-10T08:04:48.2681984-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-07-10T08:04:48.2682308-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:04:48.2730658-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:04:48.2730725-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\Microsoft.VisualStudio.Validation.dll'
+2020-07-10T08:04:48.2731217-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\Microsoft.VisualStudio.Validation.exe'
+2020-07-10T08:04:48.2731474-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:04:48.2732261-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:04:48.2732303-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\Microsoft.VisualStudio.Validation.dll'
+2020-07-10T08:04:48.2732610-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\Microsoft.VisualStudio.Validation.exe'
+2020-07-10T08:04:48.2732829-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:04:48.2733606-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:04:48.2733646-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\Microsoft.VisualStudio.Validation.dll'
+2020-07-10T08:04:48.2733934-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\Microsoft.VisualStudio.Validation.exe'
+2020-07-10T08:04:48.2734145-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:04:48.2755441-03:00:Starting callback TCP Rpc server
+2020-07-10T08:04:48.2889845-03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-07-10T08:04:48.2890150-03:00:Started callback TCP Rpc server on port 32768
+2020-07-10T08:04:48.2890165-03:00:Starting logger TCP Rpc server
+2020-07-10T08:04:48.2907464-03:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-07-10T08:04:48.2907585-03:00:Started logger TCP Rpc server on port 32769
+2020-07-10T08:04:48.3908088-03:00:Executing test executor at 'dotnet' 'exec "C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 12484 --uniqueId "2020-07-10T080447" --outputFolder "C:\Users\caroline.salvador\source\repos\TestProject\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:04:48.3965450-03:00:Executor with PID 15096 has been started successfully.
+2020-07-10T08:04:48.3989784-03:00:Out of Process Executor 15096 started
+2020-07-10T08:04:48.3989932-03:00:Waiting for endpoint
+2020-07-10T08:04:48.6423190-03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:04:48.6424072-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-07-10T08:04:48.6424141-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-07-10T08:04:48.6424238-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:04:48.6424266-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-07-10T08:04:48.6424772-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-07-10T08:04:48.6425309-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:04:48.6432392-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:04:48.6432464-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\StreamJsonRpc.resources.dll'
+2020-07-10T08:04:48.6432919-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\StreamJsonRpc.resources.exe'
+2020-07-10T08:04:48.6433164-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:04:48.6433880-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:04:48.6433922-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\StreamJsonRpc.resources.dll'
+2020-07-10T08:04:48.6434198-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\StreamJsonRpc.resources.exe'
+2020-07-10T08:04:48.6434415-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:04:48.6435259-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:04:48.6435301-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\StreamJsonRpc.resources.dll'
+2020-07-10T08:04:48.6435603-03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\StreamJsonRpc.resources.exe'
+2020-07-10T08:04:48.6435824-03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:04:48.6440641-03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=pt, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:04:48.6446433-03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:04:48.6446496-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-07-10T08:04:48.6446514-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-07-10T08:04:48.6446599-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:04:48.6446609-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-07-10T08:04:48.6446871-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-07-10T08:04:48.6447164-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:04:48.6450505-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:04:48.6450562-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\Microsoft.VisualStudio.Threading.dll'
+2020-07-10T08:04:48.6450895-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\Microsoft.VisualStudio.Threading.exe'
+2020-07-10T08:04:48.6451133-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:04:48.6451852-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:04:48.6451892-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\Microsoft.VisualStudio.Threading.dll'
+2020-07-10T08:04:48.6452162-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\Microsoft.VisualStudio.Threading.exe'
+2020-07-10T08:04:48.6452385-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:04:48.6453133-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:04:48.6453225-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\Microsoft.VisualStudio.Threading.dll'
+2020-07-10T08:04:48.6453539-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\Microsoft.VisualStudio.Threading.exe'
+2020-07-10T08:04:48.6453764-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:04:48.8193589-03:00:Remote executor port received: 32770
+2020-07-10T08:04:48.8196111-03:00:Creating executor TCP client on port 32770
+2020-07-10T08:04:48.8199207-03:00:Created executor TCP client on port 32770
+2020-07-10T08:04:48.8199254-03:00:Connecting to remote executor TCP server
+2020-07-10T08:04:48.8208535-03:00:Connected remote executor TCP server
+2020-07-10T08:04:48.8210973-03:00:trying to connect to Out of Process Executor the 1 attempt
+2020-07-10T08:04:48.8211039-03:00:Connection to Out of Process Executor established in the 1 attempt
+2020-07-10T08:04:48.9378614-03:00:2020-07-10T08:04:48.9368709-03:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll on test thread #0
+2020-07-10T08:04:48.9419802-03:00:Endpoint 15096 started
+2020-07-10T08:04:48.9572848-03:00:2020-07-10T08:04:48.9568389-03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-07-10T08:04:49.0778988-03:00:2020-07-10T08:04:49.0774802-03:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-07-10T08:04:49.0802593-03:00:2020-07-10T08:04:49.0800011-03:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-07-10T08:04:49.0830641-03:00:2020-07-10T08:04:49.0825841-03:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\caroline.salvador\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-07-10T08:04:49.1696598-03:00:2020-07-10T08:04:49.1692549-03:00:Thread#0:T:-> Loading plugin C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-07-10T08:04:49.1712899-03:00:2020-07-10T08:04:49.1710021-03:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-07-10T08:04:49.1747446-03:00:2020-07-10T08:04:49.1744681-03:00:Thread#0:T:-> Using default config
+2020-07-10T08:04:49.1845591-03:00:2020-07-10T08:04:49.1839689-03:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-07-10T08:04:49.1851359-03:00:2020-07-10T08:04:49.1849089-03:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-07-10T08:04:49.1858763-03:00:2020-07-10T08:04:49.1856001-03:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\caroline.salvador\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-07-10T08:04:49.1878280-03:00:2020-07-10T08:04:49.1870995-03:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-07-10T08:04:49.1885473-03:00:2020-07-10T08:04:49.1881591-03:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-07-10T08:04:49.1892901-03:00:2020-07-10T08:04:49.1890105-03:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\caroline.salvador\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-07-10T08:04:49.1969229-03:00:2020-07-10T08:04:49.1965372-03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:04:49.1975690-03:00:2020-07-10T08:04:49.1972199-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-07-10T08:04:49.1982733-03:00:2020-07-10T08:04:49.1979540-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\caroline.salvador\.nuget\packages\microsoft.testplatform.objectmodel\16.6.1\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-07-10T08:04:49.2286875-03:00:2020-07-10T08:04:49.2282853-03:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-07-10T08:04:49.2291884-03:00:2020-07-10T08:04:49.2289695-03:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-07-10T08:04:49.2296965-03:00:2020-07-10T08:04:49.2294671-03:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\caroline.salvador\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-07-10T08:04:49.3844646-03:00:Thread#0: Test #4/0 is started on thread #0
+2020-07-10T08:04:49.4054570-03:00:2020-07-10T08:04:49.4047744-03:00:Thread#0:B:Given Entrar no App Ailos > Selecionar uma cooperativa que foi habilitada para o serviço
+2020-07-10T08:04:49.4256771-03:00:2020-07-10T08:04:49.4252700-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4272505-03:00:2020-07-10T08:04:49.4268463-03:00:Thread#0:B:When Entrar na tela de Serviços do App Ailos em uma conta da respectiva cooperativa
+2020-07-10T08:04:49.4289784-03:00:2020-07-10T08:04:49.4286017-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4297540-03:00:2020-07-10T08:04:49.4294608-03:00:Thread#0:B:Then O menu de "Depósito de Cheques" deve ser apresentado
+2020-07-10T08:04:49.4306873-03:00:2020-07-10T08:04:49.4304508-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4394816-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.4395162-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-07-10T08:04:49.4395192-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-07-10T08:04:49.4395637-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.4395675-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.4395686-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.4395698-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-07-10T08:04:49.4395911-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-07-10T08:04:49.4396169-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.4750043-03:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,0896878 seconds
+2020-07-10T08:04:49.4773088-03:00:Thread#0: Test #5/0 is started on thread #0
+2020-07-10T08:04:49.4788364-03:00:2020-07-10T08:04:49.4785455-03:00:Thread#0:B:Given Entrar no App Ailos no menu de "Depósito de Cheques"
+2020-07-10T08:04:49.4794961-03:00:2020-07-10T08:04:49.4792064-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4803991-03:00:2020-07-10T08:04:49.4801003-03:00:Thread#0:B:And Realizar o processo de solicitação de adesão ao serviço
+2020-07-10T08:04:49.4809640-03:00:2020-07-10T08:04:49.4806952-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4815925-03:00:2020-07-10T08:04:49.4813195-03:00:Thread#0:B:Then Deve ser apresentado ao usuário que a solicitação foi enviada para análise
+2020-07-10T08:04:49.4822531-03:00:2020-07-10T08:04:49.4819716-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4830847-03:00:2020-07-10T08:04:49.4825452-03:00:Thread#0:B:And Deve ficar pendete dentro do menu "Produtos Mobile" na tela ATENDA da respectiva cooperativa da qual a conta pertence até que um colaborador efetue a liberação do serviço.
+2020-07-10T08:04:49.4840785-03:00:2020-07-10T08:04:49.4836121-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4853559-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.4853885-03:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2020-07-10T08:04:49.4853931-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-07-10T08:04:49.4854220-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.4854256-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.4854291-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.4854327-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-07-10T08:04:49.4854481-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-07-10T08:04:49.4854606-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.4872066-03:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0098602 seconds
+2020-07-10T08:04:49.4878573-03:00:Thread#0: Test #6/0 is started on thread #0
+2020-07-10T08:04:49.4896903-03:00:2020-07-10T08:04:49.4892566-03:00:Thread#0:B:Given entrar no App Ailos no menu de "Depósito de Cheques"
+2020-07-10T08:04:49.4904429-03:00:2020-07-10T08:04:49.4901534-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4908260-03:00:2020-07-10T08:04:49.4906037-03:00:Thread#0:B:And Realizar o processo de solicitação de adesão ao serviço
+2020-07-10T08:04:49.4912868-03:00:2020-07-10T08:04:49.4910551-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4918075-03:00:2020-07-10T08:04:49.4915491-03:00:Thread#0:B:Then Deve ser apresentado que a solicitação foi enviada para análise
+2020-07-10T08:04:49.4923670-03:00:2020-07-10T08:04:49.4920953-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4928488-03:00:2020-07-10T08:04:49.4926337-03:00:Thread#0:B:And O serviço deve ser automaticamente liberado para novos depósitos
+2020-07-10T08:04:49.4934177-03:00:2020-07-10T08:04:49.4931752-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.4943009-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.4943099-03:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2020-07-10T08:04:49.4943116-03:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2020-07-10T08:04:49.4943243-03:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.4943262-03:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.4943272-03:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.4943284-03:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2020-07-10T08:04:49.4943368-03:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2020-07-10T08:04:49.4943475-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.4958979-03:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0,0080228 seconds
+2020-07-10T08:04:49.4964502-03:00:Thread#0: Test #7/0 is started on thread #0
+2020-07-10T08:04:49.4981497-03:00:2020-07-10T08:04:49.4977766-03:00:Thread#0:B:Given O usuário entrar no menu "Depósito de Cheques" no app Ailos
+2020-07-10T08:04:49.4997140-03:00:2020-07-10T08:04:49.4991246-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5006394-03:00:2020-07-10T08:04:49.5001468-03:00:Thread#0:B:When For apresentada uma tela explicando que a função está desabilitada
+2020-07-10T08:04:49.5017024-03:00:2020-07-10T08:04:49.5014454-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5022147-03:00:2020-07-10T08:04:49.5019581-03:00:Thread#0:B:Then O usuário não poderá ter nenhuma outra opção de interação nessa tela.
+2020-07-10T08:04:49.5030881-03:00:2020-07-10T08:04:49.5028344-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5042316-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5042409-03:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2020-07-10T08:04:49.5042427-03:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2020-07-10T08:04:49.5042566-03:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5042585-03:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5042596-03:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5042609-03:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2020-07-10T08:04:49.5042701-03:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2020-07-10T08:04:49.5042767-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5056607-03:00:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0,009192 seconds
+2020-07-10T08:04:49.5062613-03:00:Thread#0: Test #8/0 is started on thread #0
+2020-07-10T08:04:49.5078143-03:00:2020-07-10T08:04:49.5074665-03:00:Thread#0:B:Given O usuário deseje realizar o depósito de um cheque
+2020-07-10T08:04:49.5084344-03:00:2020-07-10T08:04:49.5082333-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5088497-03:00:2020-07-10T08:04:49.5086346-03:00:Thread#0:B:When Fotografar a parte frontal e traseira do cheque
+2020-07-10T08:04:49.5094526-03:00:2020-07-10T08:04:49.5091947-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5100070-03:00:2020-07-10T08:04:49.5097339-03:00:Thread#0:B:And Informar os dados de valor, CMC7 caso o SDK não tenha lido
+2020-07-10T08:04:49.5105865-03:00:2020-07-10T08:04:49.5103490-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5110817-03:00:2020-07-10T08:04:49.5108489-03:00:Thread#0:B:And O campo de identificação caso deseje
+2020-07-10T08:04:49.5116334-03:00:2020-07-10T08:04:49.5114045-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5120238-03:00:2020-07-10T08:04:49.5118426-03:00:Thread#0:B:Then O sistema deve realizar a validação dos dados informados considerando que o CMC7 deve possuir no máximo de 30 caracteres
+2020-07-10T08:04:49.5125147-03:00:2020-07-10T08:04:49.5123148-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5133500-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5133597-03:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2020-07-10T08:04:49.5133620-03:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2020-07-10T08:04:49.5133761-03:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5133781-03:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5133792-03:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5133807-03:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2020-07-10T08:04:49.5133900-03:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2020-07-10T08:04:49.5133967-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5149682-03:00:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0,0086877 seconds
+2020-07-10T08:04:49.5154302-03:00:Thread#0: Test #9/0 is started on thread #0
+2020-07-10T08:04:49.5175011-03:00:2020-07-10T08:04:49.5170408-03:00:Thread#0:B:Given Que o cooperado realizou o depósito de um cheque
+2020-07-10T08:04:49.5182420-03:00:2020-07-10T08:04:49.5179325-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5187718-03:00:2020-07-10T08:04:49.5185012-03:00:Thread#0:B:When Consultar o status do cheque no menu depósito de cheques do app ailos
+2020-07-10T08:04:49.5193519-03:00:2020-07-10T08:04:49.5191089-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5198451-03:00:2020-07-10T08:04:49.5195971-03:00:Thread#0:B:Then O sistema deve apresentar o respectivo cheque com o status recusado permitindo que o usuário possa informar novamente os dados do cheque com novas capturas
+2020-07-10T08:04:49.5203464-03:00:2020-07-10T08:04:49.5201441-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5212472-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5212562-03:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2020-07-10T08:04:49.5212582-03:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2020-07-10T08:04:49.5212722-03:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5212740-03:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5212752-03:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5212764-03:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2020-07-10T08:04:49.5212854-03:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2020-07-10T08:04:49.5212915-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5225870-03:00:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 0,0071416 seconds
+2020-07-10T08:04:49.5230335-03:00:Thread#0: Test #10/0 is started on thread #0
+2020-07-10T08:04:49.5246421-03:00:2020-07-10T08:04:49.5243837-03:00:Thread#0:B:Given Que o cooperado realizou o depósito de um cheque
+2020-07-10T08:04:49.5251659-03:00:2020-07-10T08:04:49.5249577-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5255191-03:00:2020-07-10T08:04:49.5253151-03:00:Thread#0:B:When Consultar o status do cheque no menu depósito de cheques do app ailos
+2020-07-10T08:04:49.5261588-03:00:2020-07-10T08:04:49.5258390-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5265894-03:00:2020-07-10T08:04:49.5263844-03:00:Thread#0:B:Then O sistema deve apresentar o respecitvo cheque com o status aprovado
+2020-07-10T08:04:49.5271677-03:00:2020-07-10T08:04:49.5269543-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5276364-03:00:2020-07-10T08:04:49.5274117-03:00:Thread#0:B:And o valor do cheque deve estar como saldo bloqueado no extrato do cooperado
+2020-07-10T08:04:49.5281274-03:00:2020-07-10T08:04:49.5279350-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5290420-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5290508-03:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2020-07-10T08:04:49.5290537-03:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2020-07-10T08:04:49.5290669-03:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5290687-03:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5290699-03:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5290711-03:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2020-07-10T08:04:49.5290801-03:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2020-07-10T08:04:49.5290870-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5310192-03:00:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 0,0079674 seconds
+2020-07-10T08:04:49.5315885-03:00:Thread#0: Test #12/0 is started on thread #0
+2020-07-10T08:04:49.5342512-03:00:2020-07-10T08:04:49.5338306-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Tributos > FGTS-Fundo de Garantia
+2020-07-10T08:04:49.5348816-03:00:2020-07-10T08:04:49.5346208-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5353607-03:00:2020-07-10T08:04:49.5351147-03:00:Thread#0:B:When realizar o pagamento da guia FGTS
+2020-07-10T08:04:49.5359492-03:00:2020-07-10T08:04:49.5356802-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5364803-03:00:2020-07-10T08:04:49.5362378-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.5370402-03:00:2020-07-10T08:04:49.5367912-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5375092-03:00:2020-07-10T08:04:49.5372816-03:00:Thread#0:B:And será listado todos os pagamentos realizados
+2020-07-10T08:04:49.5380192-03:00:2020-07-10T08:04:49.5377803-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5384301-03:00:2020-07-10T08:04:49.5382414-03:00:Thread#0:B:Then para realizar o estorno o sistema deverá apresentar o botão "detalhes"
+2020-07-10T08:04:49.5389006-03:00:2020-07-10T08:04:49.5387048-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5393551-03:00:2020-07-10T08:04:49.5391507-03:00:Thread#0:B:And ao clicar no botão a opção de estorno deverá ser apresentado.
+2020-07-10T08:04:49.5397366-03:00:2020-07-10T08:04:49.5395840-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5405766-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5405856-03:00:Thread#:Scheduler: testitem #13 from normal test queue 
+2020-07-10T08:04:49.5405877-03:00:Thread#0:Scheduler: considering testitem #13 for thread 0
+2020-07-10T08:04:49.5406095-03:00:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5406113-03:00:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5406130-03:00:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5406142-03:00:Thread#0:Scheduler: using testitem #13 for thread 0
+2020-07-10T08:04:49.5406237-03:00:Thread#0:Scheduler: Test #13 is scheduled for thread
+2020-07-10T08:04:49.5406298-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5423521-03:00:Thread#0: Test #12/0 is finished on thread #0 as Succeeded within 0,0107484 seconds
+2020-07-10T08:04:49.5428409-03:00:Thread#0: Test #13/0 is started on thread #0
+2020-07-10T08:04:49.5445125-03:00:2020-07-10T08:04:49.5442424-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Contas > Água,Luz,Telefone e Outras
+2020-07-10T08:04:49.5450817-03:00:2020-07-10T08:04:49.5448443-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5454799-03:00:2020-07-10T08:04:49.5453175-03:00:Thread#0:B:When realizar o pagamento da guia CELESC
+2020-07-10T08:04:49.5458580-03:00:2020-07-10T08:04:49.5456962-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5461765-03:00:2020-07-10T08:04:49.5460120-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.5465761-03:00:2020-07-10T08:04:49.5464131-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5469120-03:00:2020-07-10T08:04:49.5467481-03:00:Thread#0:B:And será listado todos os pagamentos realizados
+2020-07-10T08:04:49.5472702-03:00:2020-07-10T08:04:49.5471151-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5475846-03:00:2020-07-10T08:04:49.5474228-03:00:Thread#0:B:Then para realizar o estorno o sistema deverá apresentar o botão "detalhes"
+2020-07-10T08:04:49.5479555-03:00:2020-07-10T08:04:49.5478004-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5482502-03:00:2020-07-10T08:04:49.5481034-03:00:Thread#0:B:And ao clicar no botão a opção de estorno deverá ser apresentado.
+2020-07-10T08:04:49.5486559-03:00:2020-07-10T08:04:49.5484556-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5495218-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5495385-03:00:Thread#:Scheduler: testitem #14 from normal test queue 
+2020-07-10T08:04:49.5495419-03:00:Thread#0:Scheduler: considering testitem #14 for thread 0
+2020-07-10T08:04:49.5495589-03:00:Thread#0:TestItem#14:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5495622-03:00:Thread#0:TestItem#14:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5495647-03:00:Thread#0:TestItem#14:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5495666-03:00:Thread#0:Scheduler: using testitem #14 for thread 0
+2020-07-10T08:04:49.5495811-03:00:Thread#0:Scheduler: Test #14 is scheduled for thread
+2020-07-10T08:04:49.5495902-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5513796-03:00:Thread#0: Test #13/0 is finished on thread #0 as Succeeded within 0,00852 seconds
+2020-07-10T08:04:49.5519914-03:00:Thread#0: Test #14/0 is started on thread #0
+2020-07-10T08:04:49.5536491-03:00:2020-07-10T08:04:49.5534184-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Tributos > DAE - Simples Doméstico/eSocial
+2020-07-10T08:04:49.5541423-03:00:2020-07-10T08:04:49.5539409-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5544797-03:00:2020-07-10T08:04:49.5543154-03:00:Thread#0:B:When realizar o pagamento da guia DAE
+2020-07-10T08:04:49.5549250-03:00:2020-07-10T08:04:49.5547500-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5552473-03:00:2020-07-10T08:04:49.5550843-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.5556370-03:00:2020-07-10T08:04:49.5554540-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5559368-03:00:2020-07-10T08:04:49.5557975-03:00:Thread#0:B:And será listado todos os pagamentos realizados
+2020-07-10T08:04:49.5563434-03:00:2020-07-10T08:04:49.5561828-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5567669-03:00:2020-07-10T08:04:49.5565921-03:00:Thread#0:B:Then para realizar o estorno o sistema deverá apresentar o botão "detalhes"
+2020-07-10T08:04:49.5571841-03:00:2020-07-10T08:04:49.5569977-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5574932-03:00:2020-07-10T08:04:49.5573435-03:00:Thread#0:B:And ao clicar no botão a opção de estorno deverá ser apresentado.
+2020-07-10T08:04:49.5579003-03:00:2020-07-10T08:04:49.5577179-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5586308-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5586471-03:00:Thread#:Scheduler: testitem #15 from normal test queue 
+2020-07-10T08:04:49.5586492-03:00:Thread#0:Scheduler: considering testitem #15 for thread 0
+2020-07-10T08:04:49.5586605-03:00:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5586624-03:00:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5586706-03:00:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5586721-03:00:Thread#0:Scheduler: using testitem #15 for thread 0
+2020-07-10T08:04:49.5586805-03:00:Thread#0:Scheduler: Test #15 is scheduled for thread
+2020-07-10T08:04:49.5586865-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5603128-03:00:Thread#0: Test #14/0 is finished on thread #0 as Succeeded within 0,0083009 seconds
+2020-07-10T08:04:49.5606915-03:00:Thread#0: Test #15/0 is started on thread #0
+2020-07-10T08:04:49.5620505-03:00:2020-07-10T08:04:49.5618766-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Contas > Boletos Diversos
+2020-07-10T08:04:49.5625909-03:00:2020-07-10T08:04:49.5623147-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5631180-03:00:2020-07-10T08:04:49.5628881-03:00:Thread#0:B:When realizar o pagamento da guia TÍTULOS AILOS
+2020-07-10T08:04:49.5635768-03:00:2020-07-10T08:04:49.5633657-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5640675-03:00:2020-07-10T08:04:49.5638543-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.5645022-03:00:2020-07-10T08:04:49.5643179-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5649437-03:00:2020-07-10T08:04:49.5647127-03:00:Thread#0:B:And será listado todos os pagamentos realizados
+2020-07-10T08:04:49.5655659-03:00:2020-07-10T08:04:49.5653221-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5662608-03:00:2020-07-10T08:04:49.5658930-03:00:Thread#0:B:Then para realizar o estorno o sistema deverá apresentar o botão "detalhes"
+2020-07-10T08:04:49.5671150-03:00:2020-07-10T08:04:49.5668127-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5676476-03:00:2020-07-10T08:04:49.5673605-03:00:Thread#0:B:And ao clicar no botão a opção de estorno deverá ser apresentado.
+2020-07-10T08:04:49.5681942-03:00:2020-07-10T08:04:49.5679223-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5690969-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5691068-03:00:Thread#:Scheduler: testitem #16 from normal test queue 
+2020-07-10T08:04:49.5691088-03:00:Thread#0:Scheduler: considering testitem #16 for thread 0
+2020-07-10T08:04:49.5691223-03:00:Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5691242-03:00:Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5691253-03:00:Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5691264-03:00:Thread#0:Scheduler: using testitem #16 for thread 0
+2020-07-10T08:04:49.5691444-03:00:Thread#0:Scheduler: Test #16 is scheduled for thread
+2020-07-10T08:04:49.5691509-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5773190-03:00:Thread#0: Test #15/0 is finished on thread #0 as Succeeded within 0,016599 seconds
+2020-07-10T08:04:49.5781558-03:00:Thread#0: Test #16/0 is started on thread #0
+2020-07-10T08:04:49.5796829-03:00:2020-07-10T08:04:49.5793796-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Tributos > DAS - Simples Nacional
+2020-07-10T08:04:49.5803603-03:00:2020-07-10T08:04:49.5800966-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5808752-03:00:2020-07-10T08:04:49.5806207-03:00:Thread#0:B:When realizar o pagamento da guia DAS
+2020-07-10T08:04:49.5814138-03:00:2020-07-10T08:04:49.5811518-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5819385-03:00:2020-07-10T08:04:49.5816718-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.5825967-03:00:2020-07-10T08:04:49.5822715-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5832066-03:00:2020-07-10T08:04:49.5829435-03:00:Thread#0:B:Then será listado todos os pagamentos realizados
+2020-07-10T08:04:49.5863975-03:00:2020-07-10T08:04:49.5859517-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5869698-03:00:2020-07-10T08:04:49.5866985-03:00:Thread#0:B:And será apresentado em tela uma situação desse pagamento como "Não permitido"
+2020-07-10T08:04:49.5875235-03:00:2020-07-10T08:04:49.5872698-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5885657-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5885746-03:00:Thread#:Scheduler: testitem #17 from normal test queue 
+2020-07-10T08:04:49.5885764-03:00:Thread#0:Scheduler: considering testitem #17 for thread 0
+2020-07-10T08:04:49.5886053-03:00:Thread#0:TestItem#17:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5886077-03:00:Thread#0:TestItem#17:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5886087-03:00:Thread#0:TestItem#17:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5886099-03:00:Thread#0:Scheduler: using testitem #17 for thread 0
+2020-07-10T08:04:49.5886197-03:00:Thread#0:Scheduler: Test #17 is scheduled for thread
+2020-07-10T08:04:49.5886259-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.5901711-03:00:Thread#0: Test #16/0 is finished on thread #0 as Succeeded within 0,0119996 seconds
+2020-07-10T08:04:49.5907341-03:00:Thread#0: Test #17/0 is started on thread #0
+2020-07-10T08:04:49.5925616-03:00:2020-07-10T08:04:49.5921917-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Tributos > DARF- Receitas Federais
+2020-07-10T08:04:49.5931993-03:00:2020-07-10T08:04:49.5929240-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5937910-03:00:2020-07-10T08:04:49.5935084-03:00:Thread#0:B:When realizar o pagamento da guia DARF
+2020-07-10T08:04:49.5943711-03:00:2020-07-10T08:04:49.5941396-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5948494-03:00:2020-07-10T08:04:49.5945967-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.5954192-03:00:2020-07-10T08:04:49.5951740-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5958532-03:00:2020-07-10T08:04:49.5956511-03:00:Thread#0:B:Then será listado todos os pagamentos realizados
+2020-07-10T08:04:49.5965014-03:00:2020-07-10T08:04:49.5962934-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5971496-03:00:2020-07-10T08:04:49.5968419-03:00:Thread#0:B:And será apresentado em tela uma situação desse pagamento como "Não permitido"
+2020-07-10T08:04:49.5976685-03:00:2020-07-10T08:04:49.5974378-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.5987494-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.5987585-03:00:Thread#:Scheduler: testitem #18 from normal test queue 
+2020-07-10T08:04:49.5987601-03:00:Thread#0:Scheduler: considering testitem #18 for thread 0
+2020-07-10T08:04:49.5987744-03:00:Thread#0:TestItem#18:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.5987763-03:00:Thread#0:TestItem#18:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.5987779-03:00:Thread#0:TestItem#18:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.5987791-03:00:Thread#0:Scheduler: using testitem #18 for thread 0
+2020-07-10T08:04:49.5987893-03:00:Thread#0:Scheduler: Test #18 is scheduled for thread
+2020-07-10T08:04:49.5987957-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.6009392-03:00:Thread#0: Test #17/0 is finished on thread #0 as Succeeded within 0,0101834 seconds
+2020-07-10T08:04:49.6016167-03:00:Thread#0: Test #18/0 is started on thread #0
+2020-07-10T08:04:49.6030977-03:00:2020-07-10T08:04:49.6027984-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Contas > Boletos Diversos
+2020-07-10T08:04:49.6037084-03:00:2020-07-10T08:04:49.6034726-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6041747-03:00:2020-07-10T08:04:49.6039513-03:00:Thread#0:B:When realizar o pagamento da guia DARE
+2020-07-10T08:04:49.6047097-03:00:2020-07-10T08:04:49.6044714-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6051432-03:00:2020-07-10T08:04:49.6049287-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.6056859-03:00:2020-07-10T08:04:49.6054195-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6061596-03:00:2020-07-10T08:04:49.6059295-03:00:Thread#0:B:Then será listado todos os pagamentos realizados
+2020-07-10T08:04:49.6067133-03:00:2020-07-10T08:04:49.6064842-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6070742-03:00:2020-07-10T08:04:49.6068838-03:00:Thread#0:B:And será apresentado em tela uma situação desse pagamento como "Não permitido"
+2020-07-10T08:04:49.6075238-03:00:2020-07-10T08:04:49.6072976-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6084033-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.6084121-03:00:Thread#:Scheduler: testitem #19 from normal test queue 
+2020-07-10T08:04:49.6084139-03:00:Thread#0:Scheduler: considering testitem #19 for thread 0
+2020-07-10T08:04:49.6084400-03:00:Thread#0:TestItem#19:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.6084418-03:00:Thread#0:TestItem#19:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.6084438-03:00:Thread#0:TestItem#19:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.6084450-03:00:Thread#0:Scheduler: using testitem #19 for thread 0
+2020-07-10T08:04:49.6084542-03:00:Thread#0:Scheduler: Test #19 is scheduled for thread
+2020-07-10T08:04:49.6084606-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.6099636-03:00:Thread#0: Test #18/0 is finished on thread #0 as Succeeded within 0,0083252 seconds
+2020-07-10T08:04:49.6104486-03:00:Thread#0: Test #19/0 is started on thread #0
+2020-07-10T08:04:49.6120870-03:00:2020-07-10T08:04:49.6117851-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Contas > Boletos Diversos
+2020-07-10T08:04:49.6126889-03:00:2020-07-10T08:04:49.6124472-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6131743-03:00:2020-07-10T08:04:49.6129425-03:00:Thread#0:B:When realizar o pagamento da guia GNRE
+2020-07-10T08:04:49.6136626-03:00:2020-07-10T08:04:49.6134646-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6140184-03:00:2020-07-10T08:04:49.6138308-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.6144103-03:00:2020-07-10T08:04:49.6142230-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6147313-03:00:2020-07-10T08:04:49.6145782-03:00:Thread#0:B:Then será listado todos os pagamentos realizados
+2020-07-10T08:04:49.6150944-03:00:2020-07-10T08:04:49.6149443-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6154256-03:00:2020-07-10T08:04:49.6152790-03:00:Thread#0:B:And será apresentado em tela uma situação desse pagamento como "Não permitido"
+2020-07-10T08:04:49.6158927-03:00:2020-07-10T08:04:49.6156792-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6171947-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.6172345-03:00:Thread#:Scheduler: testitem #20 from normal test queue 
+2020-07-10T08:04:49.6172399-03:00:Thread#0:Scheduler: considering testitem #20 for thread 0
+2020-07-10T08:04:49.6172751-03:00:Thread#0:TestItem#20:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.6172788-03:00:Thread#0:TestItem#20:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.6172830-03:00:Thread#0:TestItem#20:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.6172869-03:00:Thread#0:Scheduler: using testitem #20 for thread 0
+2020-07-10T08:04:49.6173039-03:00:Thread#0:Scheduler: Test #20 is scheduled for thread
+2020-07-10T08:04:49.6173173-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.6190534-03:00:Thread#0: Test #19/0 is finished on thread #0 as Succeeded within 0,008588 seconds
+2020-07-10T08:04:49.6195715-03:00:Thread#0: Test #20/0 is started on thread #0
+2020-07-10T08:04:49.6231880-03:00:2020-07-10T08:04:49.6228011-03:00:Thread#0:B:Given que ao acessar o menu Pagamentos > Tributos > GPS- Previdência Social
+2020-07-10T08:04:49.6238293-03:00:2020-07-10T08:04:49.6235712-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6243199-03:00:2020-07-10T08:04:49.6240741-03:00:Thread#0:B:When realizar o pagamento da guia GPS
+2020-07-10T08:04:49.6248659-03:00:2020-07-10T08:04:49.6246131-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6253594-03:00:2020-07-10T08:04:49.6251238-03:00:Thread#0:B:And acessar o menu Pagamentos > Outros> Estorno
+2020-07-10T08:04:49.6259452-03:00:2020-07-10T08:04:49.6256900-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6265630-03:00:2020-07-10T08:04:49.6262863-03:00:Thread#0:B:Then será listado todos os pagamentos realizados
+2020-07-10T08:04:49.6270796-03:00:2020-07-10T08:04:49.6268479-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6274893-03:00:2020-07-10T08:04:49.6273001-03:00:Thread#0:B:And será apresentado em tela uma situação desse pagamento como "Não permitido"
+2020-07-10T08:04:49.6280086-03:00:2020-07-10T08:04:49.6277986-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6288658-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.6288745-03:00:Thread#:Scheduler: testitem #22 from normal test queue 
+2020-07-10T08:04:49.6288762-03:00:Thread#0:Scheduler: considering testitem #22 for thread 0
+2020-07-10T08:04:49.6288892-03:00:Thread#0:TestItem#22:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.6288911-03:00:Thread#0:TestItem#22:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.6288927-03:00:Thread#0:TestItem#22:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.6288939-03:00:Thread#0:Scheduler: using testitem #22 for thread 0
+2020-07-10T08:04:49.6289034-03:00:Thread#0:Scheduler: Test #22 is scheduled for thread
+2020-07-10T08:04:49.6289098-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.6307287-03:00:Thread#0: Test #20/0 is finished on thread #0 as Succeeded within 0,011137 seconds
+2020-07-10T08:04:49.6313105-03:00:Thread#0: Test #22/0 is started on thread #0
+2020-07-10T08:04:49.6338361-03:00:2020-07-10T08:04:49.6333584-03:00:Thread#0:B:Given I access the site "www.ailos.com.br"
+2020-07-10T08:04:49.6346415-03:00:2020-07-10T08:04:49.6344171-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6350929-03:00:2020-07-10T08:04:49.6348517-03:00:Thread#0:B:When I watch the new image and
+2020-07-10T08:04:49.6356094-03:00:2020-07-10T08:04:49.6353877-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6360885-03:00:2020-07-10T08:04:49.6358387-03:00:Thread#0:B:Then I confirm that your size is correct
+2020-07-10T08:04:49.6366690-03:00:2020-07-10T08:04:49.6364369-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6378198-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.6378289-03:00:Thread#:Scheduler: testitem #23 from normal test queue 
+2020-07-10T08:04:49.6378308-03:00:Thread#0:Scheduler: considering testitem #23 for thread 0
+2020-07-10T08:04:49.6378509-03:00:Thread#0:TestItem#23:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.6378527-03:00:Thread#0:TestItem#23:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.6378599-03:00:Thread#0:TestItem#23:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.6378613-03:00:Thread#0:Scheduler: using testitem #23 for thread 0
+2020-07-10T08:04:49.6378709-03:00:Thread#0:Scheduler: Test #23 is scheduled for thread
+2020-07-10T08:04:49.6378783-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.6393517-03:00:Thread#0: Test #22/0 is finished on thread #0 as Succeeded within 0,0080273 seconds
+2020-07-10T08:04:49.6399216-03:00:Thread#0: Test #23/0 is started on thread #0
+2020-07-10T08:04:49.6413617-03:00:2020-07-10T08:04:49.6410686-03:00:Thread#0:B:Given I access the site "www.ailos.com.br"
+2020-07-10T08:04:49.6419371-03:00:2020-07-10T08:04:49.6416915-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6424013-03:00:2020-07-10T08:04:49.6421746-03:00:Thread#0:B:When I watch the field name and
+2020-07-10T08:04:49.6429210-03:00:2020-07-10T08:04:49.6426946-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6433435-03:00:2020-07-10T08:04:49.6431535-03:00:Thread#0:B:Then I confirm that it is written correctly
+2020-07-10T08:04:49.6438408-03:00:2020-07-10T08:04:49.6436201-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6448405-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.6448489-03:00:Thread#:Scheduler: testitem #25 from normal test queue 
+2020-07-10T08:04:49.6448505-03:00:Thread#0:Scheduler: considering testitem #25 for thread 0
+2020-07-10T08:04:49.6448628-03:00:Thread#0:TestItem#25:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.6448652-03:00:Thread#0:TestItem#25:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.6448663-03:00:Thread#0:TestItem#25:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.6448675-03:00:Thread#0:Scheduler: using testitem #25 for thread 0
+2020-07-10T08:04:49.6448766-03:00:Thread#0:Scheduler: Test #25 is scheduled for thread
+2020-07-10T08:04:49.6448834-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.6463633-03:00:Thread#0: Test #23/0 is finished on thread #0 as Succeeded within 0,0064239 seconds
+2020-07-10T08:04:49.6471125-03:00:Thread#0: Test #25/0 is started on thread #0
+2020-07-10T08:04:49.6500814-03:00:2020-07-10T08:04:49.6496820-03:00:Thread#0:B:Given I have navigate "www.github.com"
+2020-07-10T08:04:49.6509577-03:00:2020-07-10T08:04:49.6506396-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6514438-03:00:2020-07-10T08:04:49.6512291-03:00:Thread#0:B:Then Page title "GitHub"
+2020-07-10T08:04:49.6519374-03:00:2020-07-10T08:04:49.6517038-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6529650-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.6529818-03:00:Thread#:Scheduler: testitem #26 from normal test queue 
+2020-07-10T08:04:49.6529873-03:00:Thread#0:Scheduler: considering testitem #26 for thread 0
+2020-07-10T08:04:49.6530059-03:00:Thread#0:TestItem#26:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.6530106-03:00:Thread#0:TestItem#26:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.6530143-03:00:Thread#0:TestItem#26:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.6530178-03:00:Thread#0:Scheduler: using testitem #26 for thread 0
+2020-07-10T08:04:49.6530397-03:00:Thread#0:Scheduler: Test #26 is scheduled for thread
+2020-07-10T08:04:49.6530540-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.6546668-03:00:Thread#0: Test #25/0 is finished on thread #0 as Succeeded within 0,007537 seconds
+2020-07-10T08:04:49.6553911-03:00:Thread#0: Test #26/0 is started on thread #0
+2020-07-10T08:04:49.6568781-03:00:2020-07-10T08:04:49.6565526-03:00:Thread#0:B:Given I have navigate "www.google.com"
+2020-07-10T08:04:49.6575098-03:00:2020-07-10T08:04:49.6572520-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6580665-03:00:2020-07-10T08:04:49.6577939-03:00:Thread#0:B:Then page title "Google"
+2020-07-10T08:04:49.6586608-03:00:2020-07-10T08:04:49.6584044-03:00:Thread#0:T:done: ManualSteps.EmptyStep() (0,0s)
+2020-07-10T08:04:49.6597505-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.6597592-03:00:Thread#:Scheduler: testitem #27 from normal test queue 
+2020-07-10T08:04:49.6597611-03:00:Thread#0:Scheduler: considering testitem #27 for thread 0
+2020-07-10T08:04:49.6597793-03:00:Thread#0:TestItem#27:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.6597825-03:00:Thread#0:TestItem#27:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.6597836-03:00:Thread#0:TestItem#27:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.6597848-03:00:Thread#0:Scheduler: using testitem #27 for thread 0
+2020-07-10T08:04:49.6597941-03:00:Thread#0:Scheduler: Test #27 is scheduled for thread
+2020-07-10T08:04:49.6598008-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.6609120-03:00:Thread#0: Test #26/0 is finished on thread #0 as Succeeded within 0,0054998 seconds
+2020-07-10T08:04:49.6616197-03:00:Thread#0: Test #27/0 is started on thread #0
+2020-07-10T08:04:49.6629785-03:00:2020-07-10T08:04:49.6627006-03:00:Thread#0:B:Given I have navigate "www.microsoft.com"
+2020-07-10T08:04:49.6643652-03:00:2020-07-10T08:04:49.6641042-03:00:Thread#0:T:No matching step definition found for the step. There are matching step definitions, but none of them have matching scope for this step: ManualSteps.EmptyStep().
+2020-07-10T08:04:49.6758167-03:00:2020-07-10T08:04:49.6753769-03:00:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2020-07-10T08:04:49.6764381-03:00:2020-07-10T08:04:49.6761646-03:00:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2020-07-10T08:04:49.6771090-03:00:2020-07-10T08:04:49.6768617-03:00:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\caroline.salvador\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2020-07-10T08:04:49.7062201-03:00:2020-07-10T08:04:49.7058118-03:00:Thread#0:T:Change the scope or use the following code to create a new step definition:
+2020-07-10T08:04:49.7068764-03:00:2020-07-10T08:04:49.7065467-03:00:Thread#0:T:        [Given(@"I have navigate ""(.*)""")]
+2020-07-10T08:04:49.7074893-03:00:2020-07-10T08:04:49.7072384-03:00:Thread#0:T:        public void GivenIHaveNavigate(string p0)
+2020-07-10T08:04:49.7080574-03:00:2020-07-10T08:04:49.7077861-03:00:Thread#0:T:        {
+2020-07-10T08:04:49.7086701-03:00:2020-07-10T08:04:49.7083507-03:00:Thread#0:T:            _scenarioContext.Pending();
+2020-07-10T08:04:49.7091994-03:00:2020-07-10T08:04:49.7089519-03:00:Thread#0:T:        }
+2020-07-10T08:04:49.7100482-03:00:2020-07-10T08:04:49.7097734-03:00:Thread#0:B:Then page title "Microsoft"
+2020-07-10T08:04:49.7106950-03:00:2020-07-10T08:04:49.7104573-03:00:Thread#0:T:No matching step definition found for the step. There are matching step definitions, but none of them have matching scope for this step: ManualSteps.EmptyStep().
+2020-07-10T08:04:49.7134438-03:00:2020-07-10T08:04:49.7131495-03:00:Thread#0:T:Change the scope or use the following code to create a new step definition:
+2020-07-10T08:04:49.7140441-03:00:2020-07-10T08:04:49.7137783-03:00:Thread#0:T:        [Then(@"page title ""(.*)""")]
+2020-07-10T08:04:49.7144453-03:00:2020-07-10T08:04:49.7141996-03:00:Thread#0:T:        public void ThenPageTitle(string microsoft)
+2020-07-10T08:04:49.7150009-03:00:2020-07-10T08:04:49.7147480-03:00:Thread#0:T:        {
+2020-07-10T08:04:49.7156040-03:00:2020-07-10T08:04:49.7153004-03:00:Thread#0:T:            _scenarioContext.Pending();
+2020-07-10T08:04:49.7161076-03:00:2020-07-10T08:04:49.7158096-03:00:Thread#0:T:        }
+2020-07-10T08:04:49.7468784-03:00:2020-07-10T08:04:49.7464404-03:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-07-10T08:04:49.7474705-03:00:2020-07-10T08:04:49.7472182-03:00:Thread#0:T:using System;
+2020-07-10T08:04:49.7480310-03:00:2020-07-10T08:04:49.7477993-03:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-07-10T08:04:49.7485999-03:00:2020-07-10T08:04:49.7482363-03:00:Thread#0:T:namespace MyNamespace
+2020-07-10T08:04:49.7490294-03:00:2020-07-10T08:04:49.7488760-03:00:Thread#0:T:{
+2020-07-10T08:04:49.7494843-03:00:2020-07-10T08:04:49.7492282-03:00:Thread#0:T:    [Binding]
+2020-07-10T08:04:49.7499283-03:00:2020-07-10T08:04:49.7497795-03:00:Thread#0:T:    public class StepDefinitions
+2020-07-10T08:04:49.7503450-03:00:2020-07-10T08:04:49.7501341-03:00:Thread#0:T:    {
+2020-07-10T08:04:49.7506457-03:00:2020-07-10T08:04:49.7504650-03:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2020-07-10T08:04:49.7509395-03:00:2020-07-10T08:04:49.7507576-03:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2020-07-10T08:04:49.7512571-03:00:2020-07-10T08:04:49.7510528-03:00:Thread#0:T:        {
+2020-07-10T08:04:49.7516099-03:00:2020-07-10T08:04:49.7513777-03:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2020-07-10T08:04:49.7519519-03:00:2020-07-10T08:04:49.7517252-03:00:Thread#0:T:        }
+2020-07-10T08:04:49.7522524-03:00:2020-07-10T08:04:49.7520958-03:00:Thread#0:T:        [Given(@"I have navigate ""(.*)""")]
+2020-07-10T08:04:49.7525861-03:00:2020-07-10T08:04:49.7523624-03:00:Thread#0:T:        public void GivenIHaveNavigate(string p0)
+2020-07-10T08:04:49.7528906-03:00:2020-07-10T08:04:49.7527294-03:00:Thread#0:T:        {
+2020-07-10T08:04:49.7531668-03:00:2020-07-10T08:04:49.7530046-03:00:Thread#0:T:            _scenarioContext.Pending();
+2020-07-10T08:04:49.7534873-03:00:2020-07-10T08:04:49.7533161-03:00:Thread#0:T:        }
+2020-07-10T08:04:49.7537642-03:00:2020-07-10T08:04:49.7535999-03:00:Thread#0:T:        
+2020-07-10T08:04:49.7540294-03:00:2020-07-10T08:04:49.7538767-03:00:Thread#0:T:        [Then(@"page title ""(.*)""")]
+2020-07-10T08:04:49.7543261-03:00:2020-07-10T08:04:49.7541650-03:00:Thread#0:T:        public void ThenPageTitle(string microsoft0)
+2020-07-10T08:04:49.7545967-03:00:2020-07-10T08:04:49.7544400-03:00:Thread#0:T:        {
+2020-07-10T08:04:49.7548794-03:00:2020-07-10T08:04:49.7547443-03:00:Thread#0:T:            _scenarioContext.Pending();
+2020-07-10T08:04:49.7551509-03:00:2020-07-10T08:04:49.7549944-03:00:Thread#0:T:        }
+2020-07-10T08:04:49.7554665-03:00:2020-07-10T08:04:49.7552989-03:00:Thread#0:T:    }
+2020-07-10T08:04:49.7557406-03:00:2020-07-10T08:04:49.7555789-03:00:Thread#0:T:}
+2020-07-10T08:04:49.7565190-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:49.7565359-03:00:Thread#:Scheduler: testitem #28 from normal test queue 
+2020-07-10T08:04:49.7565376-03:00:Thread#0:Scheduler: considering testitem #28 for thread 0
+2020-07-10T08:04:49.7565513-03:00:Thread#0:TestItem#28:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:49.7565667-03:00:Thread#0:TestItem#28:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:49.7565679-03:00:Thread#0:TestItem#28:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:49.7565691-03:00:Thread#0:Scheduler: using testitem #28 for thread 0
+2020-07-10T08:04:49.7565785-03:00:Thread#0:Scheduler: Test #28 is scheduled for thread
+2020-07-10T08:04:49.7565856-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:49.7575802-03:00:Thread#0: Test #27/0 is finished on thread #0 as Pending within 0,0959439 seconds
+2020-07-10T08:04:49.7579192-03:00:Thread#0: Test #28/0 is started on thread #0
+2020-07-10T08:04:49.7648676-03:00:2020-07-10T08:04:49.7645341-03:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2020-07-10T08:04:49.7654134-03:00:2020-07-10T08:04:49.7651439-03:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2020-07-10T08:04:49.7660387-03:00:2020-07-10T08:04:49.7657914-03:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\caroline.salvador\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2020-07-10T08:04:52.9539820-03:00:2020-07-10T08:04:52.9522300-03:00:Thread#0:B:Given I have navigated to the "Alphabet_Inc." page on Wikipedia
+2020-07-10T08:04:54.8752605-03:00:2020-07-10T08:04:54.8739860-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Alphabet_Inc.") (1,9s)
+2020-07-10T08:04:54.8769628-03:00:2020-07-10T08:04:54.8762572-03:00:Thread#0:B:Then the NASDAQ stock symbol on the page should be "GOOGL"
+2020-07-10T08:04:54.8805702-03:00:2020-07-10T08:04:54.8790495-03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:04:54.8820124-03:00:2020-07-10T08:04:54.8811011-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' from .deps.json file
+2020-07-10T08:04:54.8837959-03:00:2020-07-10T08:04:54.8830014-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\caroline.salvador\.nuget\packages\mstest.testframework\2.1.2\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll'
+2020-07-10T08:04:54.9488742-03:00:2020-07-10T08:04:54.9480828-03:00:Thread#0:T:done: ValidateFeatureSteps.ThenTheNASDAQStockSymbolOnThePageShouldBe("GOOGL") (0,1s)
+2020-07-10T08:04:54.9515937-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:04:54.9517160-03:00:Thread#:Scheduler: testitem #29 from normal test queue 
+2020-07-10T08:04:54.9517222-03:00:Thread#0:Scheduler: considering testitem #29 for thread 0
+2020-07-10T08:04:54.9518487-03:00:Thread#0:TestItem#29:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:04:54.9518556-03:00:Thread#0:TestItem#29:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:04:54.9518572-03:00:Thread#0:TestItem#29:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:04:54.9518598-03:00:Thread#0:Scheduler: using testitem #29 for thread 0
+2020-07-10T08:04:54.9519468-03:00:Thread#0:Scheduler: Test #29 is scheduled for thread
+2020-07-10T08:04:54.9520286-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:04:55.0630214-03:00:Thread#0: Test #28/0 is finished on thread #0 as Succeeded within 5,305027 seconds
+2020-07-10T08:04:55.0636604-03:00:Thread#0: Test #29/0 is started on thread #0
+2020-07-10T08:04:58.2284210-03:00:2020-07-10T08:04:58.2245115-03:00:Thread#0:B:Given I have navigated to the "Microsoft" page on Wikipedia
+2020-07-10T08:05:00.6339237-03:00:2020-07-10T08:05:00.6319816-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Microsoft") (2,4s)
+2020-07-10T08:05:00.6366594-03:00:2020-07-10T08:05:00.6357612-03:00:Thread#0:B:Then the NASDAQ stock symbol on the page should be "MSFT"
+2020-07-10T08:05:00.7572084-03:00:2020-07-10T08:05:00.7564158-03:00:Thread#0:T:done: ValidateFeatureSteps.ThenTheNASDAQStockSymbolOnThePageShouldBe("MSFT") (0,1s)
+2020-07-10T08:05:00.7588035-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:05:00.7588445-03:00:Thread#:Scheduler: testitem #30 from normal test queue 
+2020-07-10T08:05:00.7588523-03:00:Thread#0:Scheduler: considering testitem #30 for thread 0
+2020-07-10T08:05:00.7589581-03:00:Thread#0:TestItem#30:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:05:00.7589654-03:00:Thread#0:TestItem#30:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:05:00.7589666-03:00:Thread#0:TestItem#30:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:05:00.7589682-03:00:Thread#0:Scheduler: using testitem #30 for thread 0
+2020-07-10T08:05:00.7590009-03:00:Thread#0:Scheduler: Test #30 is scheduled for thread
+2020-07-10T08:05:00.7590333-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:05:00.8967156-03:00:Thread#0: Test #29/0 is finished on thread #0 as Succeeded within 5,832991 seconds
+2020-07-10T08:05:00.8974041-03:00:Thread#0: Test #30/0 is started on thread #0
+2020-07-10T08:05:04.0388231-03:00:2020-07-10T08:05:04.0377754-03:00:Thread#0:B:Given I have navigated to the "Apple_Inc." page on Wikipedia
+2020-07-10T08:05:07.9320410-03:00:2020-07-10T08:05:07.9261540-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Apple_Inc.") (3,9s)
+2020-07-10T08:05:07.9338594-03:00:2020-07-10T08:05:07.9333220-03:00:Thread#0:B:Then the NASDAQ stock symbol on the page should be "AAPL"
+2020-07-10T08:05:08.2121074-03:00:2020-07-10T08:05:08.2111095-03:00:Thread#0:T:done: ValidateFeatureSteps.ThenTheNASDAQStockSymbolOnThePageShouldBe("AAPL") (0,3s)
+2020-07-10T08:05:08.2142786-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:05:08.2143608-03:00:Thread#:Scheduler: testitem #31 from normal test queue 
+2020-07-10T08:05:08.2143654-03:00:Thread#0:Scheduler: considering testitem #31 for thread 0
+2020-07-10T08:05:08.2145085-03:00:Thread#0:TestItem#31:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:05:08.2145159-03:00:Thread#0:TestItem#31:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:05:08.2145172-03:00:Thread#0:TestItem#31:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:05:08.2145194-03:00:Thread#0:Scheduler: using testitem #31 for thread 0
+2020-07-10T08:05:08.2145888-03:00:Thread#0:Scheduler: Test #31 is scheduled for thread
+2020-07-10T08:05:08.2146457-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:05:08.3381462-03:00:Thread#0: Test #30/0 is finished on thread #0 as Succeeded within 7,4406342 seconds
+2020-07-10T08:05:08.3389790-03:00:Thread#0: Test #31/0 is started on thread #0
+2020-07-10T08:05:11.4401819-03:00:2020-07-10T08:05:11.4387935-03:00:Thread#0:B:Given I have navigated to the "Apple_Inc." page on Wikipedia
+2020-07-10T08:05:15.0107028-03:00:2020-07-10T08:05:15.0095460-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Apple_Inc.") (3,6s)
+2020-07-10T08:05:15.0140389-03:00:2020-07-10T08:05:15.0124732-03:00:Thread#0:B:Then the NASDAQ stock symbol on the page should be "AA"
+2020-07-10T08:05:15.3485456-03:00:2020-07-10T08:05:15.3470646-03:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:05:15.3501209-03:00:2020-07-10T08:05:15.3495818-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2020-07-10T08:05:15.3509797-03:00:2020-07-10T08:05:15.3505379-03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2020-07-10T08:05:15.3535097-03:00:2020-07-10T08:05:15.3528848-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:05:15.3553082-03:00:2020-07-10T08:05:15.3548027-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.dll'
+2020-07-10T08:05:15.3560621-03:00:2020-07-10T08:05:15.3556768-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.exe'
+2020-07-10T08:05:15.3569022-03:00:2020-07-10T08:05:15.3564103-03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:05:15.3674324-03:00:2020-07-10T08:05:15.3664280-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:05:15.3683952-03:00:2020-07-10T08:05:15.3678411-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\System.Net.Requests.resources.dll'
+2020-07-10T08:05:15.3693380-03:00:2020-07-10T08:05:15.3688461-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\System.Net.Requests.resources.exe'
+2020-07-10T08:05:15.3699852-03:00:2020-07-10T08:05:15.3697429-03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:05:15.3708021-03:00:2020-07-10T08:05:15.3705385-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:05:15.3712013-03:00:2020-07-10T08:05:15.3709864-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Net.Requests.resources.dll'
+2020-07-10T08:05:15.3715977-03:00:2020-07-10T08:05:15.3714193-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Net.Requests.resources.exe'
+2020-07-10T08:05:15.3719950-03:00:2020-07-10T08:05:15.3717933-03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:05:15.3725715-03:00:2020-07-10T08:05:15.3723414-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:05:15.3729291-03:00:2020-07-10T08:05:15.3727418-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\System.Net.Requests.resources.dll'
+2020-07-10T08:05:15.3733385-03:00:2020-07-10T08:05:15.3731549-03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\System.Net.Requests.resources.exe'
+2020-07-10T08:05:15.3738160-03:00:2020-07-10T08:05:15.3736042-03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:05:15.3757831-03:00:2020-07-10T08:05:15.3753761-03:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=pt, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:05:15.3923268-03:00:2020-07-10T08:05:15.3919510-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href="https://www.nasdaq.com/symbol/aa"]"}
+2020-07-10T08:05:15.3927298-03:00:2020-07-10T08:05:15.3925378-03:00:Thread#0:T:  (Session info: chrome=83.0.4103.116)
+2020-07-10T08:05:15.3993153-03:00:Thread#0:TestItem#31:Scheduler: reschedule tests for testitem #31
+2020-07-10T08:05:15.4009572-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:05:15.4015328-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #31
+2020-07-10T08:05:15.4015436-03:00:Thread#0:Scheduler: considering testitem #31 for thread 0
+2020-07-10T08:05:15.4016923-03:00:Thread#0:TestItem#31:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:05:15.4016995-03:00:Thread#0:TestItem#31:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:05:15.4017014-03:00:Thread#0:TestItem#31:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:05:15.4017037-03:00:Thread#0:Scheduler: using testitem #31 for thread 0
+2020-07-10T08:05:15.4017855-03:00:Thread#0:Scheduler: Test #31 is scheduled for thread
+2020-07-10T08:05:15.4018509-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-07-10T08:05:17.1157832-03:00:Thread#0: Test #31/0 is finished on thread #0 as Failed within 8,7767017 seconds
+2020-07-10T08:05:17.1171783-03:00:Thread#0: Test #31/1 is started on thread #0
+2020-07-10T08:05:20.2518561-03:00:2020-07-10T08:05:20.2512602-03:00:Thread#0:B:Given I have navigated to the "Apple_Inc." page on Wikipedia
+2020-07-10T08:05:23.4817527-03:00:2020-07-10T08:05:23.4811729-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Apple_Inc.") (3,2s)
+2020-07-10T08:05:23.4828775-03:00:2020-07-10T08:05:23.4824326-03:00:Thread#0:B:Then the NASDAQ stock symbol on the page should be "AA"
+2020-07-10T08:05:23.7041938-03:00:2020-07-10T08:05:23.7039111-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href="https://www.nasdaq.com/symbol/aa"]"}
+2020-07-10T08:05:23.7045536-03:00:2020-07-10T08:05:23.7043426-03:00:Thread#0:T:  (Session info: chrome=83.0.4103.116)
+2020-07-10T08:05:23.7061841-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:05:23.7062180-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #31
+2020-07-10T08:05:23.7062208-03:00:Thread#0:Scheduler: considering testitem #31 for thread 0
+2020-07-10T08:05:23.7062770-03:00:Thread#0:TestItem#31:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:05:23.7062804-03:00:Thread#0:TestItem#31:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:05:23.7062825-03:00:Thread#0:TestItem#31:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:05:23.7062838-03:00:Thread#0:Scheduler: using testitem #31 for thread 0
+2020-07-10T08:05:23.7063218-03:00:Thread#0:Scheduler: Test #31 is scheduled for thread
+2020-07-10T08:05:23.7063529-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-07-10T08:05:23.8160061-03:00:Thread#0: Test #31/1 is finished on thread #0 as Failed within 6,6986519 seconds
+2020-07-10T08:05:23.8172596-03:00:Thread#0: Test #31/2 is started on thread #0
+2020-07-10T08:05:26.9065368-03:00:2020-07-10T08:05:26.9060730-03:00:Thread#0:B:Given I have navigated to the "Apple_Inc." page on Wikipedia
+2020-07-10T08:05:30.0765952-03:00:2020-07-10T08:05:30.0760704-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Apple_Inc.") (3,2s)
+2020-07-10T08:05:30.0776762-03:00:2020-07-10T08:05:30.0772314-03:00:Thread#0:B:Then the NASDAQ stock symbol on the page should be "AA"
+2020-07-10T08:05:30.2496508-03:00:2020-07-10T08:05:30.2490442-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href="https://www.nasdaq.com/symbol/aa"]"}
+2020-07-10T08:05:30.2509219-03:00:2020-07-10T08:05:30.2504413-03:00:Thread#0:T:  (Session info: chrome=83.0.4103.116)
+2020-07-10T08:05:30.2534981-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:05:30.2535267-03:00:Thread#:Scheduler: testitem #33 from normal test queue 
+2020-07-10T08:05:30.2535351-03:00:Thread#0:Scheduler: considering testitem #33 for thread 0
+2020-07-10T08:05:30.2535790-03:00:Thread#0:TestItem#33:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:05:30.2535835-03:00:Thread#0:TestItem#33:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:05:30.2535869-03:00:Thread#0:TestItem#33:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:05:30.2535932-03:00:Thread#0:Scheduler: using testitem #33 for thread 0
+2020-07-10T08:05:30.2536899-03:00:Thread#0:Scheduler: Test #33 is scheduled for thread
+2020-07-10T08:05:30.2537608-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:05:30.3926289-03:00:Thread#0: Test #31/2 is finished on thread #0 as Failed within 6,5752844 seconds
+2020-07-10T08:05:30.3935392-03:00:Thread#0: Test #33/0 is started on thread #0
+2020-07-10T08:05:33.4810067-03:00:2020-07-10T08:05:33.4805779-03:00:Thread#0:B:Given I have navigated to the "Google" page on Wikipedia
+2020-07-10T08:05:36.5192003-03:00:2020-07-10T08:05:36.5187938-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Google") (3,0s)
+2020-07-10T08:05:36.5198050-03:00:2020-07-10T08:05:36.5195756-03:00:Thread#0:B:Then the title of the page should be "Google - Wikipedia"
+2020-07-10T08:05:36.5986519-03:00:2020-07-10T08:05:36.5982199-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.ThenTheTitleOfThePageShouldBe("Google - Wikipedia") (0,1s)
+2020-07-10T08:05:36.6003465-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:05:36.6004197-03:00:Thread#:Scheduler: testitem #34 from normal test queue 
+2020-07-10T08:05:36.6004408-03:00:Thread#0:Scheduler: considering testitem #34 for thread 0
+2020-07-10T08:05:36.6005304-03:00:Thread#0:TestItem#34:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:05:36.6005339-03:00:Thread#0:TestItem#34:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:05:36.6005355-03:00:Thread#0:TestItem#34:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:05:36.6005390-03:00:Thread#0:Scheduler: using testitem #34 for thread 0
+2020-07-10T08:05:36.6005728-03:00:Thread#0:Scheduler: Test #34 is scheduled for thread
+2020-07-10T08:05:36.6006090-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:05:36.7556950-03:00:Thread#0: Test #33/0 is finished on thread #0 as Succeeded within 6,3620666 seconds
+2020-07-10T08:05:36.7563461-03:00:Thread#0: Test #34/0 is started on thread #0
+2020-07-10T08:05:39.8698463-03:00:2020-07-10T08:05:39.8695233-03:00:Thread#0:B:Given I have navigated to the "Microsoft" page on Wikipedia
+2020-07-10T08:05:43.2871512-03:00:2020-07-10T08:05:43.2866919-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Microsoft") (3,4s)
+2020-07-10T08:05:43.2878691-03:00:2020-07-10T08:05:43.2875943-03:00:Thread#0:B:Then the title of the page should be "Microsoft - Wikipedia"
+2020-07-10T08:05:43.4187156-03:00:2020-07-10T08:05:43.4183317-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.ThenTheTitleOfThePageShouldBe("Microsoft - Wikip...") (0,1s)
+2020-07-10T08:05:43.4200246-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:05:43.4200538-03:00:Thread#:Scheduler: testitem #35 from normal test queue 
+2020-07-10T08:05:43.4200594-03:00:Thread#0:Scheduler: considering testitem #35 for thread 0
+2020-07-10T08:05:43.4201060-03:00:Thread#0:TestItem#35:testItemMatchesCurrentTestThread:UnSpecific
+2020-07-10T08:05:43.4201088-03:00:Thread#0:TestItem#35:runsOnOneOtherThreadSpecific:False
+2020-07-10T08:05:43.4201102-03:00:Thread#0:TestItem#35:runsOnOneOtherThreadUnspecific:False
+2020-07-10T08:05:43.4201133-03:00:Thread#0:Scheduler: using testitem #35 for thread 0
+2020-07-10T08:05:43.4201490-03:00:Thread#0:Scheduler: Test #35 is scheduled for thread
+2020-07-10T08:05:43.4201818-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-07-10T08:05:43.5401267-03:00:Thread#0: Test #34/0 is finished on thread #0 as Succeeded within 6,783694 seconds
+2020-07-10T08:05:43.5408561-03:00:Thread#0: Test #35/0 is started on thread #0
+2020-07-10T08:05:46.6942497-03:00:2020-07-10T08:05:46.6936025-03:00:Thread#0:B:Given I have navigated to the "Apple" page on Wikipedia
+2020-07-10T08:05:49.3683968-03:00:2020-07-10T08:05:49.3679565-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Apple") (2,7s)
+2020-07-10T08:05:49.3692977-03:00:2020-07-10T08:05:49.3689312-03:00:Thread#0:B:Then the title of the page should be "Apple - Wikipedia"
+2020-07-10T08:05:49.3798146-03:00:2020-07-10T08:05:49.3793376-03:00:Thread#0:T:done: WikipediaTitleValidationSteps.ThenTheTitleOfThePageShouldBe("Apple - Wikipedia") (0,0s)
+2020-07-10T08:05:49.3815404-03:00:Thread#0:Scheduler: get next test for thread 0
+2020-07-10T08:05:49.3815668-03:00:Thread#:Scheduler: at the end of normal test queue
+2020-07-10T08:05:49.3815723-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-07-10T08:05:49.3815755-03:00:Thread#0:Scheduler: No more tests for thread
+2020-07-10T08:05:49.5218138-03:00:Thread#0: Test #35/0 is finished on thread #0 as Succeeded within 5,9808833 seconds
+2020-07-10T08:05:49.5312132-03:00:2020-07-10T08:05:49.5308698-03:00:Got Deinitialize Signal
+2020-07-10T08:05:49.5351480-03:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-07-10T08:05:49.5356142-03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-07-10T08:05:49.5366444-03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-07-10T08:05:49.5382792-03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:05:49.5382940-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-07-10T08:05:49.5382980-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-07-10T08:05:49.5383027-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:05:49.5383048-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-07-10T08:05:49.5383341-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-07-10T08:05:49.5383559-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\caroline.salvador\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1'
+2020-07-10T08:05:49.5389135-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:05:49.5389184-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\System.Diagnostics.Process.resources.dll'
+2020-07-10T08:05:49.5389572-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5\System.Diagnostics.Process.resources.exe'
+2020-07-10T08:05:49.5389810-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.5'
+2020-07-10T08:05:49.5390510-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:05:49.5390555-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Diagnostics.Process.resources.dll'
+2020-07-10T08:05:49.5390837-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5\System.Diagnostics.Process.resources.exe'
+2020-07-10T08:05:49.5391071-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.5'
+2020-07-10T08:05:49.5391858-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:05:49.5391895-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\System.Diagnostics.Process.resources.dll'
+2020-07-10T08:05:49.5392272-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5\System.Diagnostics.Process.resources.exe'
+2020-07-10T08:05:49.5392511-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.5'
+2020-07-10T08:05:49.5395014-03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=pt, PublicKeyToken=b03f5f7f11d50a3a
+2020-07-10T08:05:49.5478456-03:00:Thread#-1:Scheduler: get next test for thread -1
+2020-07-10T08:05:49.5479218-03:00:Thread#:Scheduler: at the end of normal test queue
+2020-07-10T08:05:49.5479294-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-07-10T08:05:49.5525923-03:00;Thread#12;Info;test run finished
+2020-07-10T08:05:49.5527835-03:00;Thread#12;Info;publishing test results
+2020-07-10T08:05:49.5528942-03:00;Thread#12;Info;Not publishing results.
+2020-07-10T08:05:49.5529429-03:00;Thread#12;Info;test results published
+2020-07-10T08:05:49.5529780-03:00;Thread#12;Info;generating reports
+2020-07-10T08:05:49.6323142-03:00;Thread#12;Info;Starting external report generation process
+2020-07-10T08:05:51.1512734-03:00;Thread#12;Info;Successfully generated reports.
+2020-07-10T08:05:51.1531134-03:00;Thread#12;Info;Successfully generated reports
+2020-07-10T08:05:51.1582014-03:00:Total: 28 (test executions: 30)
+2020-07-10T08:05:51.1595670-03:00:Succeeded: 26
+2020-07-10T08:05:51.1598114-03:00:Ignored: 0
+2020-07-10T08:05:51.1600106-03:00:Pending: 1
+2020-07-10T08:05:51.1600151-03:00:Skipped: 0
+2020-07-10T08:05:51.1602046-03:00:Failed: 1
+2020-07-10T08:05:51.1643564-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-07-10T08:05:51.1644366-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\caroline.salvador\source\repos\TestProject\TestResults\Unnamed project__2020-07-10T080447.html'
+========== End of log file ==========
