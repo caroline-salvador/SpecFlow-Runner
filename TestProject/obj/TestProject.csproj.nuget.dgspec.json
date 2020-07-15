@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "MSTest.TestAdapter": {
               "target": "Package",
               "version": "[2.1.2, )"

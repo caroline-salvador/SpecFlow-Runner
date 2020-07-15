@@ -13,12 +13,6 @@ namespace TestProject
             _webDriver = scenarioContext["WEB_DRIVER"] as IWebDriver;
         }
 
-        /*[Given(@"My manual test ""(.*)"""), Scope(Tag = "manual")]
-        public void GivenMyManualTest(string status)
-        {
-            Assert.AreEqual("passou", status);
-        }*/
-
         [Then(@"the NASDAQ stock symbol on the page should be ""(.*)""")]
         public void ThenTheNASDAQStockSymbolOnThePageShouldBe(string symbol)
         {

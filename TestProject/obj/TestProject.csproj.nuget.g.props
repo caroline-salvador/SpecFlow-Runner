@@ -23,7 +23,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgWebDriver_ChromeDriver Condition=" '$(PkgWebDriver_ChromeDriver)' == '' ">C:\Users\caroline.salvador\.nuget\packages\webdriver.chromedriver\26.14.313457.1</PkgWebDriver_ChromeDriver>
-    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\caroline.salvador\.nuget\packages\newtonsoft.json\10.0.3</PkgNewtonsoft_Json>
     <PkgSpecRun_Runner Condition=" '$(PkgSpecRun_Runner)' == '' ">C:\Users\caroline.salvador\.nuget\packages\specrun.runner\3.3.17</PkgSpecRun_Runner>
     <PkgBoDi Condition=" '$(PkgBoDi)' == '' ">C:\Users\caroline.salvador\.nuget\packages\bodi\1.4.1</PkgBoDi>
   </PropertyGroup>

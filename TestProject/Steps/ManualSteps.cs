@@ -6,7 +6,7 @@ using TechTalk.SpecFlow;
 
 namespace TestProject
 {
-    [Binding, Scope(Tag = "passou"), Scope(Tag = "falhou")]
+   [Binding, Scope(Tag = "passou"), Scope(Tag = "falhou")]
     public class ManualSteps
     {
         [Given(".*"), When(".*"), Then(".*")]
@@ -17,7 +17,6 @@ namespace TestProject
         [Given(".*"), When(".*"), Then(".*")]
         public void EmptyStep(string multiLineStringParam)
         {
-            Assert.AreEqual("passou", multiLineStringParam);
         }
 
         [Given(".*"), When(".*"), Then(".*")]
