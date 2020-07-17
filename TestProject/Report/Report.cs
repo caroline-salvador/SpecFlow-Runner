@@ -14,6 +14,7 @@ namespace TestProject.Report
         private static string title_feature = null;
         private static int contp = 0;
         private static int contf = 0;
+
         private static string align = "right";
 
         public static void InsertReportData(string feature, string scenario, string tag)
@@ -57,9 +58,11 @@ namespace TestProject.Report
                 html_buffer.Append(@"<table>");
                 html_buffer.Append(@"<tr>");
                 html_buffer.Append(@"<th>Scenario</th>");
-                html_buffer.Append(@"<th>Succeeded</th>");
+                html_buffer.Append(@"<th>Status</th>");
+
+                /*html_buffer.Append(@"<th>Succeeded</th>");
                 html_buffer.Append(@"<th>Failed</th>");
-                html_buffer.Append(@"<th>Blocked</th>");
+                html_buffer.Append(@"<th>Blocked</th>");*/
                 html_buffer.Append(@"</tr>");
 
                 contp = 0;
@@ -69,10 +72,27 @@ namespace TestProject.Report
             title_feature = feature;
             string scenario_color = "blue";
 
+            string tag_color = "";
+            if (tag =="passou")
+            {
+                tag_color = "green";
+                contp++;
+            }
+            if (tag == "falhou")
+            {
+                tag_color = "red";
+                contf++;
+            }
+            else if (tag == "bloqueado")
+            {
+                tag_color = "purple";
+            }
+
             html_buffer.Append(@"<tr>");
             html_buffer.Append($"<td> <font color={scenario_color}> {scenario} </font> </td>");
+            html_buffer.Append($"<td> <b> <font color={tag_color}> {tag.ToUpper()} </font> </b> </td>");
 
-            if (tag == "passou")
+            /*if (tag == "passou")
             {
                 scenario_color = "green";
                 contp++;
@@ -94,7 +114,7 @@ namespace TestProject.Report
                 html_buffer.Append($"<td></td>"); //passou
                 html_buffer.Append($"<td></td>"); //falhou
                 html_buffer.Append($"<td> <b> <font color={scenario_color}> {tag.ToUpper()} </font> </b> </td>"); //bloqueado
-            }
+            }*/
             
             html_buffer.Append(@"</tr>");
         }
