@@ -20,8 +20,12 @@ namespace TestProject.Report
 
         private static string align_right = "right";
         private static string align_left = "left";
-        private static string background = "#DCDCDC";
         private static string style_table = "width: 100%";
+
+        private static string background = "#DCDCDC";
+        private static string green = "green";
+        private static string red = "red";
+        private static string purple = "purple";
 
         public static void InsertReportData(string feature, string scenario, string tag)
         {
@@ -30,6 +34,7 @@ namespace TestProject.Report
                 if (title_feature != null)
                 {
                     html_summary.Append($"<tr>");
+                    //html_summary.Append($"<td><font color={blue}> {title_feature} </font> </td>");
                     html_summary.Append($"<td>{title_feature}</td>");
                     html_summary.Append($"<td align={align_right}>{contp + contf}</td>");
                     html_summary.Append($"<td align={align_right}>{contp}</td>");
@@ -62,32 +67,33 @@ namespace TestProject.Report
             }
 
             title_feature = feature;
-            string scenario_color = "blue";
 
             string tag_color = "";
             if (tag =="passou")
             {
-                tag_color = "green";
+                tag_color = green;
                 contp++;
             }
-            if (tag == "falhou")
+            else if (tag == "falhou")
             {
-                tag_color = "red";
+                tag_color = red;
                 contf++;
             }
             else if (tag == "bloqueado")
             {
-                tag_color = "purple";
+                tag_color = purple;
             }
 
             html_buffer.Append(@"<tr>");
-            html_buffer.Append($"<td> <font color={scenario_color}> {scenario} </font> </td>");
+            html_buffer.Append($"<td>{scenario}</td>");
             html_buffer.Append($"<td> <b> <font color={tag_color}> {tag.ToUpper()} </font> </b> </td>");
             html_buffer.Append(@"</tr>");
         }
 
         public static string GetReport()
         {
+            StringBuilder html = new StringBuilder();
+  
             html_summary.Append($"<tr>");
             html_summary.Append($"<td>{title_feature}</td>");
             html_summary.Append($"<td align={align_right}>{contp + contf}</td>");
@@ -97,8 +103,6 @@ namespace TestProject.Report
             html_summary.Append(@"</table>");
 
             html_buffer.Append(@"</table>");
-            
-            StringBuilder html = new StringBuilder();
 
             html.Append(@"<H3> RESUMO </H3>");
             html.Append(@"<style>");
